@@ -3,36 +3,20 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm vivek krishna</h1>
 <h3 align="center">I'm a passionate web developer from India.</h3>
-<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right" alt="GIF" src="IMG_20210109_122338.jpg" width="260" height="190" />  -->
-</h1>
 
 <p><em>
-B.e  CSE, <a href="https://www.iitk.ac.in/">Sathybama Institute Of Science And Technology</a> &nbsp;&nbsp; <img style="padding-left:1em" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+B.E Cse, <a href="https://www.iitk.ac.in/">Sathybama Institute of Science and Technology</a> &nbsp;&nbsp; <img style="padding-left:1em" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <img align="right" style="padding-top=1cm;" src="https://sokhonc.vercel.app/api/spotify"/>
 </em></p>
 
 
 
 
-
 <!-- <div> [![Spotify](https://sokhonc.vercel.app/api/spotify)]() </div> -->
 
-<!-- <img align="left" width="150" height="100" src="http://www.fillmurray.com/100/100"> -->
+<!-- <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100"> -->
 <!-- ![image](https://sokhonc.vercel.app/api/spotify){: style="float: left"; margin-right: 10em; height="25%" width="25%"} -->
-<br>
-</br>
-
-```javascript
-const Indian = {
-  pronouns: "He" | "His",
-  code: [C++, C, Python, Java,css,js,html5],
-  Frameworks: [Reactjs, bootstrap],
-  Interests: ["Football", "Books", "googleing","tracking"],
-  Life Philosophy: ["I am someone who loves challenges in Life! and never compermise with my ethics.", 
-  "I love the saying, "Life is like riding a bicycle. To keep your balance, you must keep moving!"]
-}
-```
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><br> 
+ 
 
 ### **Languages and Tools:**  
 <p align="left"> 
@@ -52,16 +36,39 @@ const Indian = {
     
 </p>
 
+
+<br>
+<hr>
+
+## A little about me 🚀
+
+<br>
+
+```javascript
+const Indian = {
+  pronouns: "He" | "His",
+  code: [C++, C, Python, Java,css,js,html5],
+  Frameworks: [Reactjs, bootstrap],
+  Interests: ["Football", "Books", "googleing","tracking"],
+  Life Philosophy: ["I am someone who loves challenges in Life! and never compermise with my ethics.", 
+  "I love the saying, "Life is like riding a bicycle. To keep your balance, you must keep moving!"]
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><br> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+</h1>
+
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
+
+
+## 📊 My Github Stats
 <p align="center">
     <a href="https://github.com/vivekkrishna233/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="vivek krishna's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekkrishna233&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/vivekkrishna233/github-readme-stats"><img alt="vivek krishna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vivekkrishna233&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
