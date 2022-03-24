@@ -32,7 +32,7 @@ const Indian = {
   "I love the saying, "Life is like riding a bicycle. To keep your balance, you must keep moving!"]
 }
 ```
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><br> 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><br> 
 
 ### **Languages and Tools:**  
 <p align="left"> 
