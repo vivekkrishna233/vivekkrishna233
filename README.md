@@ -1,15 +1,24 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm vivek krishna</h1>
 <h3 align="center">I'm a passionate web developer from India.</h3>
-
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right" alt="GIF" src="IMG_20210109_122338.jpg" width="260" height="190" />  -->
+</h1>
 
 <p><em>
-B.E. <a href="https://www.iitk.ac.in/">Sathybama Institute of science and technology</a> &nbsp;&nbsp; <img style="padding-left:1em" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+B.Tech. Sophomore in CSE, <a href="https://www.iitk.ac.in/">IIT Kanpur</a> &nbsp;&nbsp; <img style="padding-left:1em" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <img align="right" style="padding-top=1cm;" src="https://sokhonc.vercel.app/api/spotify"/>
 </em></p>
 
 
+
+
+
+<!-- <div> [![Spotify](https://sokhonc.vercel.app/api/spotify)]() </div> -->
+
+<!-- <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100"> -->
+<!-- ![image](https://sokhonc.vercel.app/api/spotify){: style="float: left"; margin-right: 10em; height="25%" width="25%"} -->
 
 ```javascript
 const Indian = {
@@ -23,7 +32,7 @@ const Indian = {
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><br> 
 
-
+### **Languages and Tools:**  
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -45,7 +54,7 @@ const Indian = {
 <br/>
 
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+    <a href="https://github.com/vivekkrishna233/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="vivek krishna's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekkrishna233&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
