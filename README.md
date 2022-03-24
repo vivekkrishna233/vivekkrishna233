@@ -21,6 +21,7 @@ B.e  CSE, <a href="https://www.iitk.ac.in/">Sathybama Institute Of Science And T
 <!-- ![image](https://sokhonc.vercel.app/api/spotify){: style="float: left"; margin-right: 10em; height="25%" width="25%"} -->
 <br>
 </br>
+
 ```javascript
 const Indian = {
   pronouns: "He" | "His",
