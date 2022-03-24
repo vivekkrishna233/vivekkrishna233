@@ -7,7 +7,7 @@
 </h1>
 
 <p><em>
-B.Tech. Sophomore in CSE, <a href="https://www.iitk.ac.in/">IIT Kanpur</a> &nbsp;&nbsp; <img style="padding-left:1em" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+B.e  CSE, <a href="https://www.iitk.ac.in/">Sathybama Institute Of Science And Technology</a> &nbsp;&nbsp; <img style="padding-left:1em" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <img align="right" style="padding-top=1cm;" src="https://sokhonc.vercel.app/api/spotify"/>
 </em></p>
 
@@ -17,7 +17,7 @@ B.Tech. Sophomore in CSE, <a href="https://www.iitk.ac.in/">IIT Kanpur</a> &nbsp
 
 <!-- <div> [![Spotify](https://sokhonc.vercel.app/api/spotify)]() </div> -->
 
-<!-- <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100"> -->
+<!-- <img align="left" width="150" height="100" src="http://www.fillmurray.com/100/100"> -->
 <!-- ![image](https://sokhonc.vercel.app/api/spotify){: style="float: left"; margin-right: 10em; height="25%" width="25%"} -->
 
 ```javascript
