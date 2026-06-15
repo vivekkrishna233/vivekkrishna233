@@ -5,7 +5,8 @@
 <h3 align="center">I'm a passionate web developer from India.</h3>
 
 <p><em>
-M.Tech Cse, <a href="https://www.iitk.ac.in/">Indian Institute Of Science and Technology</a> 
+M.Tech Cse, <a href="https://www.iitk.ac.in/">Indian Institute Of Science and Technology</a>
+<p><em>
 B.E Cse, <a href="https://www.iitk.ac.in/">Sathybama Institute of Science and Technology</a> &nbsp;&nbsp; <img style="padding-left:1em" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <img align="right" style="padding-top=1cm;" src="https://sokhonc.vercel.app/api/spotify"/>
 </em></p>
